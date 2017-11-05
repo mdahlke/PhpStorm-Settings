@@ -102,6 +102,14 @@
           <option name="port" value="8788" />
         </fileTransfer>
       </webServer>
+      <webServer id="7910c595-bfbe-4696-8102-1105638921a1" name="Raspberry Pi" url="http://192.168.1.131">
+        <fileTransfer host="192.168.1.131" port="22" rootFolder="/var/www/dev/raquel.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
