@@ -4,13 +4,13 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.p</mask>
@@ -18,13 +18,14 @@
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.php</mask>
       <mask>*</mask>
       <mask>*.scss</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
