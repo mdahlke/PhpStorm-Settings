@@ -7,5 +7,6 @@
     <keyboard-shortcut first-keystroke="alt space" />
     <keyboard-shortcut first-keystroke="meta y" />
     <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="shift alt button1" />
   </action>
 </keymap>
