@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+    <mouse-shortcut keystroke="shift control button1" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+    <mouse-shortcut keystroke="Force touch" />
+  </action>
+</keymap>
