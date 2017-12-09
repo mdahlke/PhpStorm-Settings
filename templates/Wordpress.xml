@@ -1,5 +1,5 @@
 <templateSet group="Wordpress">
-  <template name=";acfr" value="&lt;?php&#10;if(have_rows('$field$')){&#10;    ?&gt;&#10;    &lt;div class=&quot;row&quot;&gt;&#10;    &lt;?php&#10;    while(have_rows('$field$')){&#10;        the_row();&#10;        ?&gt;&#10;        &lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;&#10;        &lt;?php&#10;&#10;        ?&gt;&#10;        &lt;/div&gt;&#10;        &lt;?php&#10;    }&#10;    ?&gt;&#10;    &lt;/div&gt;&#10;    &lt;?php&#10;}&#10;?&gt;" toReformat="true" toShortenFQNames="true">
+  <template name=";acfr" value="&lt;?php&#10;if(have_rows('$field$')){&#10;    ?&gt;&#10;    &lt;div class=&quot;row&quot;&gt;&#10;    &lt;?php&#10;    while(have_rows('$field$')){&#10;        the_row();&#10;        ?&gt;&#10;        &lt;div class=&quot;col-xs-12 col-sm-6&quot;&gt;&#10;        &lt;?php&#10;&#10;        ?&gt;&#10;        &lt;/div&gt;&#10;        &lt;?php&#10;    }&#10;    ?&gt;&#10;    &lt;/div&gt;&#10;    &lt;?php&#10;}&#10;?&gt;" description="" toReformat="true" toShortenFQNames="true">
     <variable name="field" expression="" defaultValue="''" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
