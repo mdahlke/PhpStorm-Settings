@@ -1,7 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="quick definition">
-      <action id="QuickImplementations" />
-    </macro>
-  </component>
-</application>
