@@ -1,7 +1,7 @@
 <scheme name="Material Theme - Darker 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-02-12T09:47:30</property>
+    <property name="modified">2018-02-12T12:52:06</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <font>
@@ -43,9 +43,9 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
-    <option name="GUTTER_BACKGROUND" value="1e1e1e" />
+    <option name="GUTTER_BACKGROUND" value="3d3d3c" />
     <option name="INDENT_GUIDE" value="" />
-    <option name="LINE_NUMBERS_COLOR" value="474747" />
+    <option name="LINE_NUMBERS_COLOR" value="e909bf" />
     <option name="METHOD_SEPARATORS_COLOR" value="303030" />
     <option name="MODIFIED_LINES_COLOR" value="d9f5dd" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
@@ -54,8 +54,8 @@
     <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="505050" />
     <option name="SELECTED_TEARLINE_COLOR" value="d9f5dd" />
-    <option name="SELECTION_BACKGROUND" value="2e2e2e" />
-    <option name="SELECTION_FOREGROUND" value="" />
+    <option name="SELECTION_BACKGROUND" value="676463" />
+    <option name="SELECTION_FOREGROUND" value="d4ebe1" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3b3b" />
     <option name="TEARLINE_COLOR" value="4e4e4e" />
     <option name="WHITESPACES" value="303030" />
@@ -118,6 +118,11 @@
     <option name="BNF_NUMBER">
       <value>
         <option name="FOREGROUND" value="f36e3a" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="a6a6a6" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -648,7 +653,7 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="80cbc4" />
+        <option name="FOREGROUND" value="acbc8" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -1730,8 +1735,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
-        <option name="BACKGROUND" value="212121" />
+        <option name="FOREGROUND" value="979797" />
+        <option name="BACKGROUND" value="222222" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
