@@ -1,7 +1,7 @@
 <scheme name="Material Theme - Darker 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-02-12T12:52:06</property>
+    <property name="modified">2018-02-13T07:19:34</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <font>
@@ -45,7 +45,7 @@
     <option name="FILESTATUS_modifiedOutside" value="80cbc4" />
     <option name="GUTTER_BACKGROUND" value="3d3d3c" />
     <option name="INDENT_GUIDE" value="" />
-    <option name="LINE_NUMBERS_COLOR" value="e909bf" />
+    <option name="LINE_NUMBERS_COLOR" value="d579e9" />
     <option name="METHOD_SEPARATORS_COLOR" value="303030" />
     <option name="MODIFIED_LINES_COLOR" value="d9f5dd" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
@@ -708,7 +708,8 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="505c63" />
+        <option name="FOREGROUND" value="cac46e" />
+        <option name="BACKGROUND" value="412624" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1748,6 +1749,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffeb95" />
+        <option name="BACKGROUND" value="41000f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
