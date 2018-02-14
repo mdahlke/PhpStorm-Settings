@@ -1,7 +1,7 @@
 <scheme name="Material Theme - Darker 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-02-13T07:19:34</property>
+    <property name="modified">2018-02-14T15:52:34</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <font>
@@ -1322,6 +1322,21 @@
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="89ddff" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="9b1e7d" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="ad1d" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="bc3133" />
       </value>
     </option>
     <option name="REGEXP.BRACES">
