@@ -1,8 +1,7 @@
 <scheme name="Material Theme - Darker 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-02-14T15:52:34</property>
-    <property name="rainbow Default language">true</property>
+    <property name="modified">2018-02-14T20:43:21</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -1331,7 +1330,7 @@
     </option>
     <option name="RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="ad1d" />
+        <option name="FOREGROUND" value="ad1c12" />
       </value>
     </option>
     <option name="RAINBOW_COLOR4">
