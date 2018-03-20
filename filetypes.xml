@@ -5,6 +5,7 @@
       <mapping pattern=".env.production" type=".env file" />
       <mapping pattern=".pre-commit-php-unit" type="PLAIN_TEXT" />
       <mapping pattern=".installedExtras" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
