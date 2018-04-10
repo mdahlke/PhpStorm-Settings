@@ -13,9 +13,9 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.php</mask>
     <mask>*composer.json</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
