@@ -1,7 +1,7 @@
 <scheme name="Material Theme - Darker 2" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2018-02-14T20:43:21</property>
+    <property name="modified">2018-05-24T08:09:52</property>
   </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -636,8 +636,11 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="ecf7ff" />
+        <option name="BACKGROUND" value="ff391e" />
+        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="ff3a3d" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
