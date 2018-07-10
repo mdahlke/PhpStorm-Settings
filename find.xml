@@ -17,8 +17,8 @@
     <mask>*composer.json</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
     <mask>*.scss</mask>
   </component>
 </application>
