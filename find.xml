@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -14,10 +15,10 @@
     <mask>*composer.json</mask>
     <mask>*.css</mask>
     <mask>composer.json</mask>
-    <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
