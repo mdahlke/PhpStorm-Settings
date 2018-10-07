@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env.development" type=".env file" />
       <mapping pattern=".env.production" type=".env file" />
+      <mapping pattern=".env.development" type=".env file" />
       <mapping pattern=".pre-commit-php-unit" type="PLAIN_TEXT" />
       <mapping pattern=".installedExtras" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
