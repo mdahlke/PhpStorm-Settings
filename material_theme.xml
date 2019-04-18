@@ -1,7 +1,16 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabOpacity" value="56" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-102801c:16a320ceb39:-8000" />
     <option name="version" value="3.9.1" />
