@@ -1,0 +1,10 @@
+<templateSet group="PHP">
+  <template name="getsetu" value="/**&#10; * Set $DESC$.&#10; * &#10; * @param $P_NAME$ $CAP_DESC$&#10; */&#10;public final void set_$SET_NAME$($TYPE$ $P_NAME$) {&#10;    $NAME$ = $P_NAME$;&#10;}&#10;&#10;/**&#10; * Get $DESC$.&#10; *&#10; * @return $CAP_DESC$&#10; */&#10;public final $TYPE$ get_$SET_NAME$() {&#10;    return $NAME$;&#10;}&#10;&#10;$END$" description="snakecase for getters and setters" toReformat="false" toShortenFQNames="true">
+    <variable name="DESC" expression="underscoresToSpaces(snakeCase(NAME))" defaultValue="" alwaysStopAt="true" />
+    <variable name="P_NAME" expression="groovyScript(&quot;def result= _1.substring(0,1); return result;&quot;, NAME)" defaultValue="" alwaysStopAt="false" />
+    <variable name="CAP_DESC" expression="capitalize(DESC)" defaultValue="" alwaysStopAt="false" />
+    <variable name="SET_NAME" expression="capitalize(NAME)" defaultValue="" alwaysStopAt="false" />
+    <variable name="TYPE" expression="typeOfVariable(NAME)" defaultValue="" alwaysStopAt="false" />
+    <variable name="NAME" expression="suggestFirstVariableName(&quot;Object&quot;)" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
