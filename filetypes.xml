@@ -11,6 +11,7 @@
       <mapping pattern=".installedExtras" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="blocked_user_agents" type="PLAIN_TEXT" />
+      <mapping pattern="purge_cache" type="PLAIN_TEXT" />
       <mapping pattern="default_secured_headers" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
