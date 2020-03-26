@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8a680da0-7240-4c24-bc6e-5ae1f83e7ff7" name="MarkeyDS - Rackspace DEV" url="http://mwa-269-cloud-server.my.markeyds.com/">
+        <fileTransfer host="69.20.40.90" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/vhosts/test/MWA-269-cloud-server" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
