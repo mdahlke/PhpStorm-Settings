@@ -4,6 +4,7 @@
       <mapping pattern=".env.production" type=".env file" />
       <mapping pattern=".env.development" type=".env file" />
       <mapping ext="mdl" type="HTML" />
+      <mapping pattern="purge_cache" type="PLAIN_TEXT" />
       <mapping pattern=".pre-commit-php-unit" type="PLAIN_TEXT" />
       <mapping pattern="default_headers" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -11,13 +12,14 @@
       <mapping pattern=".installedExtras" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="blocked_user_agents" type="PLAIN_TEXT" />
-      <mapping pattern="purge_cache" type="PLAIN_TEXT" />
       <mapping pattern="default_secured_headers" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="page-view-documentation" type="Twig" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
