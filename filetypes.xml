@@ -4,6 +4,7 @@
       <mapping ext="mdl" type="HTML" />
       <mapping pattern=".pre-commit-php-unit" type="PLAIN_TEXT" />
       <mapping pattern=".nycrc" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern="blocked_user_agents" type="PLAIN_TEXT" />
       <mapping pattern="default_headers" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
