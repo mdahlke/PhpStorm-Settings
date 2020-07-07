@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="mutations.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -28,5 +29,6 @@
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>mutations.js</mask>
   </component>
 </application>
