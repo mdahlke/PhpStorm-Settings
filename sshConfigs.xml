@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="69.20.40.90" id="0f449350-9e65-473c-8e43-b00a7b05f03b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="MarkeyDS - Rackspace DEV" nameFormat="CUSTOM" username="markey" />
-      <sshConfig host="69.20.40.90" id="183cc4b2-8fa2-4f37-8cae-05aefad282aa" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="MarkeyDS - Rackspace DEV" nameFormat="CUSTOM" username="markey" />
+      <sshConfig host="69.20.40.90" id="1e84dece-db0a-4fe5-8d32-76e9b592ccbd" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="MarkeyDS - Rackspace DEV" nameFormat="CUSTOM" username="markey" />
     </configs>
   </component>
 </application>
