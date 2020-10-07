@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -22,12 +23,12 @@
     <mask>*.twig, *.php</mask>
     <mask>*.twig</mask>
     <mask>*</mask>
-    <mask>*.json</mask>
     <mask>mutations.js</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*.json</mask>
   </component>
 </application>
