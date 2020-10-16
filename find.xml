@@ -24,12 +24,12 @@
     <mask>*.twig, *.php</mask>
     <mask>*</mask>
     <mask>mutations.js</mask>
-    <mask>*.html</mask>
     <mask>*.json</mask>
     <mask>*.twig</mask>
     <mask>*.vue</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
