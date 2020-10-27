@@ -1,23 +1,17 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="fa098d13-6118-44e4-98ab-3138dece1bce" name="PHP" home="/Applications/MAMP/bin/php/php7.3.3/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="fa098d13-6118-44e4-98ab-3138dece1bce" name="PHP" home="/Applications/MAMP/bin/php/php7.3.9/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.3.3/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.3.3/bin/php" path_separator=":" version="7.3.3">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.3.9/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.3.9/bin/php" path_separator=":" version="7.3.9">
           <additional_php_ini />
-          <configuration_file>/Applications/MAMP/bin/php/php7.3.3/conf/php.ini</configuration_file>
+          <configuration_file>/Applications/MAMP/bin/php/php7.3.9/conf/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.3.3/lib/php" />
+            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.3.9/lib/php" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
