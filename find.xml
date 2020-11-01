@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -25,10 +25,10 @@
     <mask>mutations.js</mask>
     <mask>*.json</mask>
     <mask>*.twig</mask>
-    <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
