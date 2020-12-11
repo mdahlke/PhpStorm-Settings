@@ -33,6 +33,9 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="PLACE_PARENS_FOR_CONSTRUCTOR" value="1" />
   </PHPCodeStyleSettings>
+  <VueCodeStyleSettings>
+    <option name="UNIFORM_INDENT" value="false" />
+  </VueCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
@@ -74,11 +77,18 @@
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="SCSS">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="Vue">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
