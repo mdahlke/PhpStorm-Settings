@@ -27,7 +27,7 @@
     <mask>*.scss, *.vue</mask>
     <mask>*.js, *.vue</mask>
     <mask>*.php</mask>
-    <mask>*.scss</mask>
     <mask>*.vue</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
