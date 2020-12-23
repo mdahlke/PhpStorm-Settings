@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="mdl" type="HTML" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="blocked_user_agents" type="PLAIN_TEXT" />
       <mapping pattern="proxy_params" type="PLAIN_TEXT" />
       <mapping pattern=".installedExtras" type="PLAIN_TEXT" />
