@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="deleted_files" type="AUTO_DETECTED" />
       <mapping ext="mdl" type="HTML" />
       <mapping pattern="blocked_user_agents" type="PLAIN_TEXT" />
       <mapping pattern="proxy_params" type="PLAIN_TEXT" />
@@ -13,6 +14,7 @@
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".pre-commit-php-unit" type="PLAIN_TEXT" />
+      <mapping ext="json " type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping pattern="page-view-documentation" type="Twig" />
