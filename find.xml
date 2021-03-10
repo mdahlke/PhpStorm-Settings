@@ -33,7 +33,7 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>index.js</mask>
-    <mask>*.html, !*.php.html</mask>
     <mask>*.vue</mask>
+    <mask>*.html, !*.php.html</mask>
   </component>
 </application>
