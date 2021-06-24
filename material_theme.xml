@@ -1,8 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="highlightColorEnabled" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
@@ -11,10 +16,9 @@
     <option name="indicatorStyle" value="Dot" />
     <option name="tabOpacity" value="56" />
     <option name="settingsSelectedTab" value="1" />
-    <option name="accentColor" value="ff4081" />
-    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="accentColor" value="f9826c" />
+    <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="-102801c:16a320ceb39:-8000" />
-    <option name="version" value="4.2.2" />
     <option name="tabHighlightPosition" value="Full" />
   </component>
 </application>
