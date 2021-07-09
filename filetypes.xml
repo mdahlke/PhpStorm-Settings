@@ -19,10 +19,10 @@
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping pattern="page-view-documentation" type="Twig" />
-      <mapping ext="yaml" type="YAML" />
-      <mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yml" type="YAML_EX" />
-      <removed_mapping ext="yaml" type="YAML_EX" />
+      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
+      <mapping ext="yaml" type="YAML_EX" />
+      <mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
