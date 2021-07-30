@@ -27,11 +27,11 @@
     <mask>index.js</mask>
     <mask>*.html, !*.php.html</mask>
     <mask>.twig</mask>
-    <mask>*.twig</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
