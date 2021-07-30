@@ -1,29 +1,25 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="deleted_files" type="AUTO_DETECTED" />
       <mapping ext="mdl" type="HTML" />
-      <mapping pattern="blocked_user_agents" type="PLAIN_TEXT" />
-      <mapping pattern="proxy_params" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="purge_cache" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".installedExtras" type="PLAIN_TEXT" />
       <mapping pattern="default_headers" type="PLAIN_TEXT" />
-      <mapping pattern="purge_cache" type="PLAIN_TEXT" />
       <mapping pattern="default_secured_headers" type="PLAIN_TEXT" />
-      <mapping pattern=".nycrc" type="PLAIN_TEXT" />
       <mapping pattern=".MERGE_MSG.swp" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping pattern="_redirects" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".pre-commit-php-unit" type="PLAIN_TEXT" />
+      <mapping pattern="blocked_user_agents" type="PLAIN_TEXT" />
+      <mapping pattern="proxy_params" type="PLAIN_TEXT" />
+      <mapping pattern=".nycrc" type="PLAIN_TEXT" />
       <mapping ext="json " type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping pattern="page-view-documentation" type="Twig" />
-      <mapping ext="yaml" type="YAML" />
-      <mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yml" type="YAML_EX" />
-      <removed_mapping ext="yaml" type="YAML_EX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -33,6 +29,8 @@
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="yaml" type="YAML_EX" />
+      <removed_mapping ext="yml" type="YAML_EX" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
