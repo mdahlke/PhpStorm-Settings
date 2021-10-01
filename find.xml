@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*composer.json</mask>
@@ -34,7 +34,7 @@
     <mask>*.js,*vue</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
-    <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
