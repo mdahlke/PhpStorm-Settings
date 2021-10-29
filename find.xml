@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
+    <option name="customScope" value="No Minified Search" />
+    <option name="defaultScopeName" value="No Minified Search" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="No Minified Search" />
+    <option name="FILE_MASK" value="*.vue,*.js" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*composer.json</mask>
@@ -16,7 +17,6 @@
     <mask>*.mdl</mask>
     <mask>*.twig,*.php</mask>
     <mask>*.scss, *.php, *.js</mask>
-    <mask>*.vue,*.js</mask>
     <mask>*.twig, *.php</mask>
     <mask>*</mask>
     <mask>mutations.js</mask>
@@ -37,5 +37,6 @@
     <mask>*.php</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
+    <mask>*.vue,*.js</mask>
   </component>
 </application>
