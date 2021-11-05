@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*</mask>
     <mask>mutations.js</mask>
     <mask>*.scss, *.vue</mask>
@@ -29,12 +27,12 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.php</mask>
     <mask>*.vue,*.js</mask>
     <mask>*.twig</mask>
     <mask>*.js,*jsx</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
