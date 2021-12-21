@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>mutations.js</mask>
     <mask>*.scss, *.vue</mask>
     <mask>*.js, *.vue</mask>
@@ -18,7 +18,6 @@
     <mask>*.js,*vue</mask>
     <mask>*.vue,*.js</mask>
     <mask>*.js,*jsx</mask>
-    <mask>*.scss</mask>
     <mask>*.vue</mask>
     <mask>*.twig</mask>
     <mask>.ini</mask>
@@ -34,5 +33,6 @@
     <mask>*.inc</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
