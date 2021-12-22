@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>mutations.js</mask>
     <mask>*.scss, *.vue</mask>
     <mask>*.js, *.vue</mask>
@@ -18,7 +19,6 @@
     <mask>*.vue,*.js</mask>
     <mask>*.js,*jsx</mask>
     <mask>*.vue</mask>
-    <mask>*.twig</mask>
     <mask>.ini</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
