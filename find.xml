@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>mutations.js</mask>
     <mask>*.scss, *.vue</mask>
     <mask>*.js, *.vue</mask>
@@ -30,10 +31,10 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.html</mask>
     <mask>*.twig</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
