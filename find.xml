@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.scss, *.vue</mask>
     <mask>*.js, *.vue</mask>
     <mask>*.js, *.jsx</mask>
@@ -29,10 +29,10 @@
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>yarn.lock</mask>
-    <mask>*.vue</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.vue,*.js</mask>
     <mask>*.html</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
